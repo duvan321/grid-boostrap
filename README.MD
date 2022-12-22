@@ -5,6 +5,9 @@
 </div>
 
 ---
+
+- This project is adapted to different devices
+
 <div align="left">
 <h3>🔨Used tools:</h3>
 <div>
