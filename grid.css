@@ -1,0 +1,21 @@
+h2 {
+  text-align: center;
+  color: blue;
+  font-family: "Courier New", Courier, monospace;
+}
+.col {
+  border: 0.1rem solid white;
+  height: 6rem;
+}
+
+.reto1 .col {
+  background-color: darkseagreen;
+}
+
+.reto2 .col {
+  background-color: orangered;
+}
+
+.reto3 .col {
+  background-color: red;
+}
